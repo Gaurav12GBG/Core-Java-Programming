@@ -1,0 +1,83 @@
+DESCRIPTION
+Create a class named Product with the following private member variables.
+
+• id of type Long
+
+• productName of type String
+
+• supplierName of type String
+
+Include appropriate getters and setters.
+
+Include a 3-argument constructor and a default constructor.
+
+Include a method named display. It does not accept any arguments and its return type is void. Display the details of the product in this method. The method prototype is void display();
+
+Create another class and write a main method to test the above class.
+
+Sample Input
+
+Enter the product id
+
+1001
+
+
+Enter the product name
+
+Product1
+
+Is the product supplied by Nivas Suppliers? Type yes or no (not case sensitive)
+
+yes
+
+
+
+Sample Output
+
+Product Id is 1001
+
+Product Name is Product1
+
+Supplier Name is Nivas
+
+
+
+Sample Input
+
+Enter the product id
+
+1002
+
+Enter the product name
+
+Product2
+
+Is the product supplied by Nivas Suppliers? Type yes or no (not case sensitive)
+
+no
+
+Enter the supplier name
+
+Vikas
+
+
+
+Sample Output
+
+Product Id is 1002
+
+Product Name is Product2
+
+Supplier Name is Vikas
+
+
+
+EXECUTION TIME LIMIT
+50 seconds
+
+Solution code
+Please choose a language and write your code.
+info_outlineUNSOLVED
+CODEINPUTOUTPUTCODEINPUTOUTPUT
+Java 8
+

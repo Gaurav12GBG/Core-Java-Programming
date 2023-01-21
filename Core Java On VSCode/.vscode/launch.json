@@ -1,0 +1,777 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch tut_42_Method_Overriding",
+            "request": "launch",
+            "mainClass": "tut_42_Method_Overriding",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch wipro",
+            "request": "launch",
+            "mainClass": "wipro",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_86_Date_class",
+            "request": "launch",
+            "mainClass": "tut_86_Date_class",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_83_HashMap",
+            "request": "launch",
+            "mainClass": "tut_83_HashMap",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_81_ArrayDeque",
+            "request": "launch",
+            "mainClass": "tut_81_ArrayDeque",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_75_finallyBlock_itsNeed",
+            "request": "launch",
+            "mainClass": "tut_75_finallyBlock_itsNeed",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch PatientBillingSystem",
+            "request": "launch",
+            "mainClass": "PatientBillingSystem",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch specialAllowance",
+            "request": "launch",
+            "mainClass": "specialAllowance",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch trippleNotAllowed",
+            "request": "launch",
+            "mainClass": "trippleNotAllowed",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch main1",
+            "request": "launch",
+            "mainClass": "main1",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSales",
+            "request": "launch",
+            "mainClass": "countSales",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubString",
+            "request": "launch",
+            "mainClass": "SubString",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_82_Hashing",
+            "request": "launch",
+            "mainClass": "tut_82_Hashing",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch abc",
+            "request": "launch",
+            "mainClass": "abc",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch customerInformation",
+            "request": "launch",
+            "mainClass": "customerInformation",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch Source",
+            "request": "launch",
+            "mainClass": "Source",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckTwoPersonSame",
+            "request": "launch",
+            "mainClass": "CheckTwoPersonSame",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_39_1_Aggregations",
+            "request": "launch",
+            "mainClass": "tut_39_1_Aggregations",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculateInflation",
+            "request": "launch",
+            "mainClass": "calculateInflation",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch exchangeGreeting",
+            "request": "launch",
+            "mainClass": "exchangeGreeting",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch monkeyTrouble",
+            "request": "launch",
+            "mainClass": "monkeyTrouble",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch electricityBill",
+            "request": "launch",
+            "mainClass": "electricityBill",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_23_twoDimensionalArray",
+            "request": "launch",
+            "mainClass": "tut_23_twoDimensionalArray",
+            "projectName": "Core Java On VSCode_9973e534"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_86_Date_class",
+            "request": "launch",
+            "mainClass": "tut_86_Date_class",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_12_strMethods",
+            "request": "launch",
+            "mainClass": "tut_12_strMethods",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_03_intOrNot",
+            "request": "launch",
+            "mainClass": "tut_03_intOrNot",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_84_HashSet",
+            "request": "launch",
+            "mainClass": "tut_84_HashSet",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_81_ArrayDeque",
+            "request": "launch",
+            "mainClass": "tut_81_ArrayDeque",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_80_linkedList",
+            "request": "launch",
+            "mainClass": "tut_80_linkedList",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_79_ArrayList",
+            "request": "launch",
+            "mainClass": "tut_79_ArrayList",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_76_practiseSet14",
+            "request": "launch",
+            "mainClass": "tut_76_practiseSet14",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_75_finallyBlock_itsNeed",
+            "request": "launch",
+            "mainClass": "tut_75_finallyBlock_itsNeed",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_74_throw_Vs_throws",
+            "request": "launch",
+            "mainClass": "tut_74_throw_Vs_throws",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_73_ExceptionClass",
+            "request": "launch",
+            "mainClass": "tut_73_ExceptionClass",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_72_NestedTry_and_catch",
+            "request": "launch",
+            "mainClass": "tut_72_NestedTry_and_catch",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_71_handlingSpecificExceptions",
+            "request": "launch",
+            "mainClass": "tut_71_handlingSpecificExceptions",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_70_Try_Catch_Block",
+            "request": "launch",
+            "mainClass": "tut_70_Try_Catch_Block",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_69_Errors",
+            "request": "launch",
+            "mainClass": "tut_69_Errors",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_67_practiseSet13",
+            "request": "launch",
+            "mainClass": "tut_67_practiseSet13",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_66_ThreadMethods",
+            "request": "launch",
+            "mainClass": "tut_66_ThreadMethods",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_65_ThreadPriorities",
+            "request": "launch",
+            "mainClass": "tut_65_ThreadPriorities",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_64_ConstructorFromThreadClass",
+            "request": "launch",
+            "mainClass": "tut_64_ConstructorFromThreadClass",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_62_ThreadByImplementingRunnableInterface",
+            "request": "launch",
+            "mainClass": "tut_62_ThreadByImplementingRunnableInterface",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_61_CreatingThreadByExtendingThread",
+            "request": "launch",
+            "mainClass": "tut_61_CreatingThreadByExtendingThread",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_58_practiseSet12",
+            "request": "launch",
+            "mainClass": "tut_58_practiseSet12",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_57_AccessModifiers",
+            "request": "launch",
+            "mainClass": "tut_57_AccessModifiers",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_53_practiseSet11",
+            "request": "launch",
+            "mainClass": "tut_53_practiseSet11",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_52_Polymorphism_In_Interfaces",
+            "request": "launch",
+            "mainClass": "tut_52_Polymorphism_In_Interfaces",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_51_Inheritance_In_Interfaces",
+            "request": "launch",
+            "mainClass": "tut_51_Inheritance_In_Interfaces",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_50_defaultMethod",
+            "request": "launch",
+            "mainClass": "tut_50_defaultMethod",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_48_abstract_VS_interfaces",
+            "request": "launch",
+            "mainClass": "tut_48_abstract_VS_interfaces",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_46_AbstractClass_AbstractMethod",
+            "request": "launch",
+            "mainClass": "tut_46_AbstractClass_AbstractMethod",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch SHA1",
+            "request": "launch",
+            "mainClass": "SHA1",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_08_operators",
+            "request": "launch",
+            "mainClass": "tut_08_operators",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch mains",
+            "request": "launch",
+            "mainClass": "mains",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_06_Exercise1",
+            "request": "launch",
+            "mainClass": "tut_06_Exercise1",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_04_kiloToMiles",
+            "request": "launch",
+            "mainClass": "tut_04_kiloToMiles",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_02_calender",
+            "request": "launch",
+            "mainClass": "tut_02_calender",
+            "projectName": "Java On VsCode_1b73dc07"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_03_intOrNot",
+            "request": "launch",
+            "mainClass": "tut_03_intOrNot",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_29_vowelsOrNot",
+            "request": "launch",
+            "mainClass": "tut_29_vowelsOrNot",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_02_calender",
+            "request": "launch",
+            "mainClass": "tut_02_calender",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_46_AbstractClass_AbstractMethod",
+            "request": "launch",
+            "mainClass": "tut_46_AbstractClass_AbstractMethod",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_45_practiseSet10",
+            "request": "launch",
+            "mainClass": "tut_45_practiseSet10",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_44_Exercise4",
+            "request": "launch",
+            "mainClass": "tut_44_Exercise4",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch emptyArr",
+            "request": "launch",
+            "mainClass": "emptyArr",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch CRT",
+            "request": "launch",
+            "mainClass": "CRT",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_43_Dynamic_Method_Dispatch",
+            "request": "launch",
+            "mainClass": "tut_43_Dynamic_Method_Dispatch",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_42_Method_Overriding",
+            "request": "launch",
+            "mainClass": "tut_42_Method_Overriding",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_41_this_super_keywords",
+            "request": "launch",
+            "mainClass": "tut_41_this_super_keywords",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_40_constructors_In_Inheritance",
+            "request": "launch",
+            "mainClass": "tut_40_constructors_In_Inheritance",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_39_inheritance",
+            "request": "launch",
+            "mainClass": "tut_39_inheritance",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_38_practiseSet9",
+            "request": "launch",
+            "mainClass": "tut_38_practiseSet9",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_37_Exercise3",
+            "request": "launch",
+            "mainClass": "tut_37_Exercise3",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_36_Constructor",
+            "request": "launch",
+            "mainClass": "tut_36_Constructor",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_35_AccessModifiers",
+            "request": "launch",
+            "mainClass": "tut_35_AccessModifiers",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_34_practiseSet8",
+            "request": "launch",
+            "mainClass": "tut_34_practiseSet8",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_33_Custom_Class",
+            "request": "launch",
+            "mainClass": "tut_33_Custom_Class",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_30_practiseSet7",
+            "request": "launch",
+            "mainClass": "tut_30_practiseSet7",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_28_recursion",
+            "request": "launch",
+            "mainClass": "tut_28_recursion",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_27_VarArgs",
+            "request": "launch",
+            "mainClass": "tut_27_VarArgs",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_26_methodOverloading",
+            "request": "launch",
+            "mainClass": "tut_26_methodOverloading",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch tut_25_methods",
+            "request": "launch",
+            "mainClass": "tut_25_methods",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet6",
+            "request": "launch",
+            "mainClass": "practiseSet6",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays_2MD",
+            "request": "launch",
+            "mainClass": "Arrays_2MD",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays_01",
+            "request": "launch",
+            "mainClass": "Arrays_01",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch breakAndContinue",
+            "request": "launch",
+            "mainClass": "breakAndContinue",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet5",
+            "request": "launch",
+            "mainClass": "practiseSet5",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Associativity",
+            "request": "launch",
+            "mainClass": "Associativity",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch calender",
+            "request": "launch",
+            "mainClass": "calender",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditional1",
+            "request": "launch",
+            "mainClass": "conditional1",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch conditional2",
+            "request": "launch",
+            "mainClass": "conditional2",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch integerOrNot",
+            "request": "launch",
+            "mainClass": "integerOrNot",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch kilometerToMiles",
+            "request": "launch",
+            "mainClass": "kilometerToMiles",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch percentage",
+            "request": "launch",
+            "mainClass": "percentage",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet1",
+            "request": "launch",
+            "mainClass": "practiseSet1",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet2",
+            "request": "launch",
+            "mainClass": "practiseSet2",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet3",
+            "request": "launch",
+            "mainClass": "practiseSet3",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiseSet4",
+            "request": "launch",
+            "mainClass": "practiseSet4",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch stingMethods",
+            "request": "launch",
+            "mainClass": "stingMethods",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "Java On VsCode_6c1dba08"
+        },
+        {
+            "type": "java",
+            "name": "Launch vowelsOrNot",
+            "request": "launch",
+            "mainClass": "vowelsOrNot",
+            "projectName": "Java On VsCode_6c1dba08"
+        }
+    ]
+}
